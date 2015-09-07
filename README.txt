@@ -1,5 +1,5 @@
 RECIPE TRANSFORMER
-EECS 337 - Project2
+EECS 337 - Project 2
 Group 4
 Members: Tejaswinee Sohoni, Zach Straight, Harsh Sarin, Surabhi Ravishankar
 
